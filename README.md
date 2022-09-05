@@ -1,1 +1,7 @@
-# liv_social_api
+# Liv's Social Network API
+
+## Description
+
+## Table of Contents
+
+## Application Preview
